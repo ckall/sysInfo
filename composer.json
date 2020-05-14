@@ -1,0 +1,16 @@
+{
+    "name": "ckall/sysinfo",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cking",
+            "email": "ckallcloud@foxmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ckall\\": "src"
+        }
+    }
+}
